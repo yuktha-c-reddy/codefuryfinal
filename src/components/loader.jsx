@@ -42,7 +42,7 @@ function Loader() {
           </div>
           <div className="text">Sign up</div>
         </button></Link><br /><br /><br /> <br />
-        <Link to="/signup">
+        <Link to="/login">
         <button type="button" className="btn cube cube-hover">
           <div className="bg-top">
             <div className="bg-inner"></div>
