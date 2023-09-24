@@ -1,0 +1,61 @@
+/* App.css */
+.app-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80vh;
+    background-color: #f0f0f0;
+  }
+  
+  .feature {
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 300px;
+    background-color: #f4efef;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+  }
+  .feature:nth-child(1) {
+    margin-left: 40px;
+    margin-right: 70px; /* Adjust the margin value as needed */
+  }
+  .feature:nth-child(2) {
+    margin-right: 70px; /* Adjust the margin value as needed */
+  }
+  .feature:nth-child(3) {
+    margin-right: 70px; /* Adjust the margin value as needed */
+  }
+  .feature:nth-child(4) {
+    margin-right: 70px;
+    margin-left: 40px; /* Adjust the margin value as needed */
+  }
+  .feature:nth-child(5) {
+    margin-right: 70px; /* Adjust the margin value as needed */
+  }
+  .quote-container {
+    padding: 20px;
+    background-color: #e7d0f7;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .quote-text {
+    
+    font-size: 40px;
+    font-weight:lighter;
+    color: rgb(25, 4, 62);
+  }
+  
+  /* Adjust the width of features for larger screens */
+  @media screen and (min-width: 768px) {
+    .feature {
+      flex-basis: calc(50% - 20px); /* Adjust as needed */
+    }
+  }
+  
