@@ -29,9 +29,9 @@ function Signup(){
             <button className="enter"  onClick={() => navigate('/main')}>Enter</button>
 
         </div>
-        <Link to="/login">
+        <Link to="/loading">
         <button class="button type2">
-        <span class="btn-txt">Log In</span>
+        <span class="btn-txt">Back</span>
         </button>
        </Link>
     </div>
