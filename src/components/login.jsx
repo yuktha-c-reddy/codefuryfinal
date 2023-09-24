@@ -8,7 +8,7 @@ function Login(){
     return(
         <div class="container">
         
-       <div class="cont">
+       <div class="contlog">
         <div class="card">
             <a class="login">Log in</a>
             <div class="inputBox">
