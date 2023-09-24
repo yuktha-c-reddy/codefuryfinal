@@ -13,6 +13,14 @@ npm start
 ![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/5b5cec3b-d6ab-4c14-88c3-95b6f8702a2b)
 ![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/95a6d85f-2485-4048-b502-c406d836d8cf)
 
+![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/af58841f-0817-496c-90e3-00606e0c78a1)
+![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/9297d196-6e01-458e-9b60-411be9f9aa3f)
+![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/552031dd-541e-4de2-8294-1c80ccdd6add)
+![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/78121b5b-98d9-4f98-810e-631a7cd12bae)
+
+
+
+
 
 
 
