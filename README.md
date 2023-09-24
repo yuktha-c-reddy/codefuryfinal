@@ -1,6 +1,26 @@
 # Getting Started with Create React App
+Download the project code .
+cd codefury_final
+npm start
+# React App
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/8c3f1a3d-1bd1-4391-968b-c95ac86ed0e0)
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/82fa6195-d9ec-4b35-b92c-66f4a60515dd)
+
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/ea18e83f-f53d-424c-b1e9-68461e2a4104)
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/1670a276-8751-422f-bc72-0a126e2a2fce)
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/564a425d-f525-4296-a133-c70446c3d652)
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/5b5cec3b-d6ab-4c14-88c3-95b6f8702a2b)
+![image](https://github.com/yuktha-c-reddy/codefury_final/assets/70469290/95a6d85f-2485-4048-b502-c406d836d8cf)
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ### Download the project code .
+### cd codefury_final
+### npm start
 
 ## Available Scripts
 
