@@ -23,9 +23,9 @@ function Login(){
 
             <button className="enter" onClick={() => navigate('/main')}>Enter</button>
         </div>
-        <Link to="/signup">
+        <Link to="/loading">
         <button class="button type1">
-        <span class="btn-txt">Sign Up</span>
+        <span class="btn-txt">Back</span>
         </button>
        </Link>
        </div>
