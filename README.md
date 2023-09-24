@@ -17,6 +17,7 @@ npm start
 ![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/9297d196-6e01-458e-9b60-411be9f9aa3f)
 ![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/552031dd-541e-4de2-8294-1c80ccdd6add)
 ![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/78121b5b-98d9-4f98-810e-631a7cd12bae)
+![image](https://github.com/yuktha-c-reddy/codefuryfinal/assets/70469290/e8252e0f-df19-4530-b314-4fc097dc454e)
 
 
 
